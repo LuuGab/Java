@@ -15,7 +15,7 @@
 <h3>📚 Sobre o repositório</h3>
 
 <p align="justify">
-    Este repositório foi criado com o intuito de reunir códigos, exemplos e anotações desenvolvidas durante meus estudos com a Linguagem de Programação Java. Tendo como objetivo consolidar meus conhecimentos por meio de estudos constantes e práticas contínuas. Documentando todo este processo de aprendizado.
+    Este repositório foi criado com o intuito de registrar códigos, exemplos e anotações desenvolvidas durante meus estudos com a linguagem de programação em questão. Tendo como objetivo consolidar meus conhecimentos com a ferramenta e documentar todo este processo de aprendizado.
 </p>
 
 <br>
